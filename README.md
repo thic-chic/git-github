@@ -1,2 +1,2 @@
-# git-github
-random
+# my way
+tutorial purpose only
